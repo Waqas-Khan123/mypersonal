@@ -1,0 +1,80 @@
+
+
+.m-custum{
+    background-color: rgb(27, 27, 27);
+ 
+}
+
+.custm-nav a{
+    color: white;
+    padding: 10px 10px;
+    margin-right:6px ;
+}
+
+
+
+
+
+
+
+
+.navbar-toggler-icon {
+background-color: white;
+    display: inline-block;
+    width: 1.5em;
+    
+    height: 1.5em;
+    vertical-align: middle;
+    background-image: var(--bs-navbar-toggler-icon-bg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.custm-nav a:hover{
+
+    color: white;
+}
+
+.btn-lgout{
+    background-color: chartreuse;
+    border: none;
+}
+  
+.hdr-logo img{
+   width:70%;
+
+
+    margin-right: 100px;
+
+}
+
+
+.serchbar{
+    width: 100%;
+    }
+    .srch-img{
+        width: 25px;
+        height: 25px;
+
+    
+    }
+    input{
+        width: 100%;
+        margin-left: 4px;
+        outline: none;
+        border: none;
+        background-color: rgb(27, 27, 27);
+        color: white;
+    
+
+    }
+
+    .btn-lgout{
+        background-color: chartreuse;
+    }
+    a:hover{
+        border: none;
+        color:white;
+
+    }
+   
